@@ -89,7 +89,7 @@
                 android:layout_height="0dp"
                 android:layout_gravity="center"
                 android:layout_weight="20"
-                android:backgroundTint="#000000"
+                android:backgroundTint="#141DBF"
                 android:text="ENTRAR"
                 android:textColor="@color/white"
                 android:textSize="24sp" />

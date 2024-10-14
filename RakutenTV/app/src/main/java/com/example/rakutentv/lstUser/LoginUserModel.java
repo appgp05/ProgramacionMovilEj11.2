@@ -26,7 +26,7 @@ private OnLoginUserListener onLoginUserListener;
         param.put("PASSWORD", usuario.getPassword());
         TareaSegundoPlano miTarea = new TareaSegundoPlano(param);
         //Cambiar URL según IP
-        miTarea.execute("http://192.168.104.74:8080/RakutenTVAndroid/Controller"); //Cambiar URL Según IP
+        miTarea.execute("http://192.168.104.70:8080/RakutenTVAndroid/Controller"); //Cambiar URL Según IP
     }
 
     /*Clase ASYNKTASK*/
